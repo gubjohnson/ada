@@ -1,0 +1,28 @@
+.legals-main{
+	margin-top: 5px;
+}
+
+.legals-main-header{
+	background-image: url("../images/pexels-photo-210585.jpeg");
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	background-position:10% 30%;
+	background-size: cover;
+}
+
+.legals-main-header >span{
+	border: 1px solid #fff;
+	border-radius: 10px;
+	display: inline-block;
+	color: #fff;
+	margin: 100px 60px;
+	padding: 5px;
+	font-size: 60px;
+
+}
+
+.legals-main-content{
+	margin: 10px auto;
+	padding: 10px;
+	max-width: 1000px;
+}

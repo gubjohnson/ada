@@ -1,0 +1,193 @@
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.col-xs-12 {
+    width: 100%;
+}
+
+.ada-awards{
+	margin-top: 10px;
+
+}
+
+.ada-awards-content{
+    display: block;
+	background-image: url(../images/pexels-photo-276651.jpeg);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: 10% 70%;
+    color: #fff;
+    background-size: cover;
+}
+
+
+
+.ada-awards-content_header{
+	padding: 10px 15px 10px 15px;
+	
+}
+
+
+.ada-awards-content_header h2{
+    display: inline-block;
+	position: relative;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 60px;
+    margin: 100px 60px;
+	
+}
+
+.ada-awards-content_header h3{
+	position: relative;
+	max-width: 500px;
+	margin:5px auto;
+	font-size: 40px;
+}
+
+/*.ada-awards-content_header h2:after{
+	content: "";
+	width: 40px;
+	position: absolute;
+	margin-left: auto;
+	margin-top: auto;
+	left: 0;
+	right: 152px;
+	bottom: -2px;
+	border-top: 4px solid #333;
+}*/
+
+.ada-awards-content_header >p{
+    display: inline-block;
+	max-width: 500px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+.ada-awards-content_list{
+	margin: 10px auto;
+}
+
+.ada-awards-2017{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 10px;
+}
+
+
+
+.ada-awards-content_txt{
+	
+	max-width: 400px;
+	text-align: center;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.ada-awards-img_right{
+    border-radius: 10px;
+    max-height: 300px;
+    max-width: 555px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.ada-awards-img_left{
+    border-radius: 10px;
+    max-height: 300px;
+    max-width: 555px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.ada-awards-2016{
+    border-radius: 10px;
+	background-color: #f5f5f5;
+    margin: 10px auto;  
+}
+
+.ada-awards-2016_header{
+	margin: 20px auto;
+}
+
+.ada-awards-2016_header h3{
+	position: relative;
+	max-width: 500px;
+	margin:5px auto;
+	font-size: 32px;
+	text-align: center;
+}
+
+.ada-awards-2016_content {
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.ada-awards-2016_content img {
+    border-radius: 10px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.ada-award-2016_text {
+    width: 100%;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0px 15px 0px 15px;
+    text-align: center;
+    color: #fff;
+    z-index: 2;
+}
+
+.ada-award-2016_text a {
+    width: 150px;
+    margin-top: 10px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: 300;
+}
+
+.ada-awards-2016_content:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+
+.ada-awards-2015{
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+
+.ada-awards-2015_header h3{
+    position: relative;
+    max-width: 500px;
+    margin:20px auto;
+    font-size: 32px;
+}
+
+.ada-awards-2015_header >p{
+    margin:20px auto;
+    max-width: 500px;
+    
+}
+

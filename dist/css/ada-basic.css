@@ -1,0 +1,41 @@
+* {
+margin: 0em;
+padding: 0em;
+font-size: 98%;
+border-style: none;
+list-style-type: none;
+box-sizing: border-box;
+}
+body{
+	font-family: "Source Sans Pro", "Helvetica", sans-serif;
+    font-size: 16px;
+    color: #303030;
+    background: white;
+}
+
+
+nav{
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #026CB6;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+figure{
+	position: relative;
+	display: block;
+}

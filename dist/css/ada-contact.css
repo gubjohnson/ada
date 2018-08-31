@@ -1,0 +1,83 @@
+.contact-active{
+	color: #40c55e;
+}
+
+.row{
+	margin:0;
+}
+
+.contact-main{
+	margin-top: 5px;
+}
+
+.contact-main-header{
+	background-image: url("../images/pexels-photo-273238.jpeg");
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	background-position:10% 30%;
+	background-size: cover;
+}
+
+.contact-main-header >span{
+	border: 1px solid #fff;
+	border-radius: 10px;
+	display: inline-block;
+	color: #fff;
+	margin: 100px 60px;
+	padding: 5px;
+	font-size: 60px;
+
+}
+
+#us-strong{
+	font-weight: 700;
+
+}
+
+.contact-form{
+	margin: 20px auto;
+	border-radius: 10px;
+	background-color: #f5f5f5;
+}
+
+.contact-form_header{
+	text-transform: uppercase;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.contact-form_header{
+	padding: 5px;
+}
+
+.contact-form form{
+	padding: 10px;
+	margin: 20px auto;
+	max-width: 400px;
+
+}
+
+.google-map{
+	margin: 20px auto;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.google-map_header{
+	text-transform: uppercase;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.google-map iframe{
+	width: 360px;
+	height: 300px;
+	position: relative;
+	border-radius: 10px;
+}
+
+.google-map_content{
+	display: block;
+	margin:10px auto;
+	font-size: 16px;
+}
