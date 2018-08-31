@@ -1,0 +1,36 @@
+.project-main{
+	margin-top: 5px;
+}
+
+.project-main-header{
+	background-image: url("../images/pexels-photo-271667.jpeg");
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	background-position:10% 30%;
+	background-size: cover;
+}
+
+.project-main-header >span{
+	
+	border: 1px solid #000000e6;
+	border-radius: 10px;
+	display: inline-block;
+	color: #000000e6;
+	margin: 100px 60px;
+	padding: 5px;
+	font-size: 60px;
+}
+
+.project-main-content{
+	margin: 20px auto;
+}
+
+.tab-content{
+	padding: 10px;
+	font-size: 16px;
+}
+
+.list-group-item{
+	font-size: 16px;
+}
+
